@@ -18,11 +18,10 @@ Trabalho em Equipe para a Digital College
 
 
 ## Tabela de conteúdos
-===========================
 
-* [Status do Projeto](##Features)
-* [Features](##Features)
-
+* [Status do Projeto](#status-do-projeto)
+* [Features](#features)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 
 ## Status do Projeto
