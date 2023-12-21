@@ -5,7 +5,7 @@ Trabalho em Equipe para a Digital College
 > Participantes do projeto.
 > - [**JaniellyM**](https://github.com/JaniellyM)
 > - [**ArmandoFilho483**](https://github.com/ArmandoFilho483)
-
+> - [**Haudson Silva**](https://github.com/haudsonsilva)
 
 
 
