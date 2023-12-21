@@ -1,8 +1,10 @@
 # Desenvolvimento-de-Website-para-Wanderlust-Adventures
 Trabalho em Equipe para a Digital College
 
-- [**JaniellyM**](https://github.com/JaniellyM)
-- [**ArmandoFilho483**](https://github.com/ArmandoFilho483)
+> [!NOTE]
+> Participantes do projeto.
+> - [**JaniellyM**](https://github.com/JaniellyM)
+> - [**ArmandoFilho483**](https://github.com/ArmandoFilho483)
 
 
 
